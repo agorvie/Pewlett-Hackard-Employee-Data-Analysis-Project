@@ -1,5 +1,6 @@
-# SQL-Challenge Project
-This is a class project for my Data Analytics BootCamp classes at Washignton University. The project involves data modeling, data engineering, and data analysis tasks focused on exploring employee data from the 1980s and 1990s at Pewlett Hackard, a fictional company. The goal is to design a database schema, import CSV data, and answer various analytical questions using SQL queries.
+# Pewlett-Hackard-Employee-Data-Analysis-Project
+### An SQL-Challenge Project
+This is a class project for my Data Analytics BootCamp course at Washignton University. The project involves data modeling, data engineering, and data analysis tasks focused on exploring employee data from the 1980s and 1990s at Pewlett Hackard, a fictional company. The goal is to design a database schema, import CSV data, and answer various analytical questions using SQL queries.
 
 ## Background
 
